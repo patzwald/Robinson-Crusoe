@@ -1,0 +1,12 @@
+c:\Users\admin\Desktop\website\MvcRobinson\bin\Debug\netcoreapp2.0\app.db
+c:\Users\admin\Desktop\website\MvcRobinson\bin\Debug\netcoreapp2.0\MvcRobinson.deps.json
+c:\Users\admin\Desktop\website\MvcRobinson\bin\Debug\netcoreapp2.0\MvcRobinson.runtimeconfig.json
+c:\Users\admin\Desktop\website\MvcRobinson\bin\Debug\netcoreapp2.0\MvcRobinson.runtimeconfig.dev.json
+c:\Users\admin\Desktop\website\MvcRobinson\bin\Debug\netcoreapp2.0\MvcRobinson.dll
+c:\Users\admin\Desktop\website\MvcRobinson\bin\Debug\netcoreapp2.0\MvcRobinson.pdb
+c:\Users\admin\Desktop\website\MvcRobinson\obj\Debug\netcoreapp2.0\MvcRobinson.csproj.CoreCompileInputs.cache
+c:\Users\admin\Desktop\website\MvcRobinson\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\Users\admin\Desktop\website\MvcRobinson\obj\Debug\netcoreapp2.0\MvcRobinson.AssemblyInfoInputs.cache
+c:\Users\admin\Desktop\website\MvcRobinson\obj\Debug\netcoreapp2.0\MvcRobinson.AssemblyInfo.cs
+c:\Users\admin\Desktop\website\MvcRobinson\obj\Debug\netcoreapp2.0\MvcRobinson.dll
+c:\Users\admin\Desktop\website\MvcRobinson\obj\Debug\netcoreapp2.0\MvcRobinson.pdb
